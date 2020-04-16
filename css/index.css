@@ -147,6 +147,7 @@ nav a {
 	padding: 90px;
 	margin: 100px
 }
-#copyright {
+#copyright{
 	display: flex;
-	justify-content: 
+    justify-content: center;
+    margin: auto; 
